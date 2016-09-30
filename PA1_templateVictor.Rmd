@@ -1,3 +1,10 @@
+---
+title: "Reproducible Research: Peer Assignment 1"
+author: "Victor" 
+output: 
+  html_document:
+    keep_md: true
+---
 Week 2 Project
 ===========================
 ```{r}
